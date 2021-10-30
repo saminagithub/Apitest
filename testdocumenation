@@ -1,0 +1,16 @@
+**Test Documentation for a specific user**
+Tested that the userId,posts and comments were not empty and did not hard code the userid 9 for Delphine.
+Tested that all the emails for the user Delphine had the correct email format by adding a email validation function.
+Tested using an array to identify the user Delphine.
+Tested the posts of Delphine with an array going through all the 100 posts that were avaiable and only 10 posts found for Delphine.
+Tested the comments using an array to read through all the 500 comments and then using an inner array to count and validate all emails that were valid for Delphines commentsthat were 50.
+
+**Outstanding test**
+Test for all valid users or invalid users "that they exist or not"
+Test that users has correct access to all relevant information.
+Test that a user does not have access to data that is not authorised for the user.
+Test that the endpoints are accessible and redirected to a correct site or informational message.
+Test a few api response codes like , 400, 403 500 and 300.
+Test that we handle exceptions.
+Test timeout of a call is handled correctly.
+Test we on the correct version of the software.
