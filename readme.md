@@ -1,4 +1,4 @@
-//Referenced website to setup Api test automation framwork using javascript
+Referenced website to setup Api test automation framework using javascript
 https://www.digitalonus.com/getting-started-with-api-test-automation-using-javascript/
 1.create new project folder
 2.initialize a new NPM project
@@ -16,7 +16,9 @@ To a run test update package.jason file
 
 API
 https://jsonplaceholder.typicode.com
-https://jsonplaceholder.typicode.com/posts
+
 
 Postman for reports generations 
 https://medium.com/younited-tech-blog/generate-automated-test-reports-using-postman-b9c8cd53b955
+
+JavaScript extention for visual studio code
